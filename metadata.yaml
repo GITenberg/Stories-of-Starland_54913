@@ -1,11 +1,16 @@
 _repo: Stories-of-Starland_54913
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54913-h/images/cover.jpg
 creator:
   author:
     agent_name: Proctor, Mary
     gutenberg_agent_id: '48101'
     url: http://www.gutenberg.org/2009/agents/48101
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54913#Stories-of-Starland
 gutenberg_issued: '2017-06-15'
 gutenberg_type: Text
 identifiers:
